@@ -907,3 +907,33 @@ brother, Adil Shehzad from Technical University Chemnitz, who helped me
 in understanding the Android platform.
 
 
+## REFERENCES
+
+2013. Monetising mobile money. (2013). [http://pg.jrj.com.cn/acc/Res/CN_RES/](http://pg.jrj.com.cn/acc/Res/CN_RES/)
+    INVEST/2013/9/4/c3733bb6-9484-4e4e-bfb3-9330a4adf845.pdf
+2017. Global Mobile Payment Technology Market Will Reach USD 3,
+    Billion By 2024. (2017). https://www.statista.com/statistics/744944/
+    mobile-payment-platforms-users/
+2017. Number of users of leading mobile payment platforms worldwide
+    as of August 2017. (2017). https://www.statista.com/statistics/744944/
+    mobile-payment-platforms-users/
+2019. BrainTree Docs. (2019). https://developers.braintreepayments.com/guides/
+    overview
+2019. Dwolla Documentation. (2019). https://developers.dwolla.com/
+2019a. PayPal Rest API. (2019). https://developer.paypal.com/docs/api/overview/#
+2019b. PayPal User Agreement. (2019). https://www.paypal.com/us/webapps/mpp/
+    ua/useragreement-full
+2019. Square Docs. (2019). https://squareup.com/us/en/payments
+2019. Stripe Docs. (2019). https://stripe.com/docs/api
+Harry Bouwman, Christer Carlsson, Christer Carlsson, and Shahrokh Nikou. 2014. How
+    Nokia Failed to Nail the Smartphone Market. 25th European Regional Conference of
+    the International Telecommunications Society (ITS), At Brussels, Belgium, Brussels,
+    Belgium.
+Jordan Jewell and Matthew Marden. 2018. The Business Value of the Stripe Pay-
+    ments Platform. (2018). https://stripe.com/files/payments/IDC_Business_Value_
+    of_Stripe_Platform_Full%20Study.pdf
+Dr. Ranjit D. Patil, Sujata P. Patil, and Vidya H. Bankar. 2016. To Study the Security As-
+    pects in the Online Transactions Using PayPal. International Journal of Innovative
+    Research in Computer and Communication Engineering.
+
+
