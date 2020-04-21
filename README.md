@@ -294,41 +294,40 @@ a test user account.
 
 Business Account is generated after register your application in
 developer platform, The key which is given along with business account
-can be use for the transactions. This key represent, that when you will
+can be used for the transactions. This key represents, that when you will
 make some transaction from any PayPal account then money will come into
 your business Account.
 
 ![image](clinetID)
 
-In the given Fig 7 we have a create api in Paypal developer account, and
-along with this api we get a clientID which we will use in our
+In the given Fig 7 we have a create API in Paypal developer account, and
+along with this API, we get a clientID which we will use in our
 application development environment to receive the payment in our
 business account.
 
 ### Test Account
 
-Buyer in the scenario, who pays money. Sandbox provides you a test
+Buyer in the scenario, who pays money. The sandbox provides you a test
 account through which you can perform the dummy transaction. These
 transactions will not credit your Business account money, but it will
-show that the transactions happened. Paypal give you 10000 Euro’s as a
-welcome money in test account which you can use for the testing the
+show that the transactions happened. Paypal gives you 10000 Euro as welcome money in test account which you can use for testing the
 transaction. Later it can be extended upon the request. This welcome
-money is just a dummy money, This is not a real money.
+money is just dummy money, This is not real money.
 
-BrainTree SDK
+Braintree SDK
 -------------
 
-BrainTree is also belong to PayPal, this service is more vast and also
-provided with the back support of PayPal. This SDK have over 250 million
-customers and more vastly used in the payment industry specially in
-e-commerce sector. It is available for both mobile and web therefore
-consider as more flexible. The most important aspect of this SDK is that
-it provide different debit and credit cards, Paypal and PayPal Credit
-with the integration of single BrainTree Api. BrainTree is the mixture
-of multiple payment method, which it not only supports the payment
+Braintree also belongs to PayPal, this service is more vast and also
+provided with the back support of PayPal. This SDK has over 250 million
+customers and more vastly used in the payment industry especially in
+The e-commerce sector. It is available for both mobile and web, therefore,
+consider more flexible. The most important aspect of this SDK is that
+it provides different debit and credit cards, Paypal and PayPal Credit
+with the integration of single Braintree API. Braintree is the mixture
+of multiple payment methods, which is not only supporting the payment
 through PayPal account but also from different Credit and Debit Card
 providers. Let’s Talk about different services that are provided by
-BrainTree SDK are as follow @Braintree.
+Braintree SDK are as follow @Braintree.
 
 ### Checkout Service
 
@@ -340,117 +339,117 @@ your own checkout UI with the SDK integration.
 
 ### Reach More Buyers
 
-According the study about the online e-commerce mobile orders, About
+According to the study about the online e-commerce mobile orders, About
 40percent of the buyers are using PayPal while checkout so therefore it
 will definitely increase the business of the Mobile App if they have
-BrainTree or PayPal Api integrated for the payment method.
+Braintree or PayPal API integrated for the payment method.
 
 ### Supported Payment Method
 
-This one the most important aspect of this SDK that it have multiple
-payment method therefore we can grad a lot of used with different
-payment providers. First of all it is supporting the most popular are
+This one of the most important aspects of this SDK that it has multiple
+payment methods therefore we can grad a lot of use with different
+payment providers. First of all, it is supporting the most popular are
 
 ![image](pv)
 
-Credit and Debit cards, supported by BrainTree SDK are :-
+Credit and Debit cards, supported by Braintree SDK are:-
 
 ![image](cards)
 
-Digital Wallets which are in the supporting list of BrainTree are as
-follow :-
+Digital Wallets which are in the supporting list of Braintree areas
+follow:-
 
 ![image](wallets)
 
-Local payment methods in the BrainTree SDK are :-
+Local payment methods in the Braintree SDK are:-
 
 ![image](localpayment)
 
 ### BrainTree Sandbox testing
 
-BrainTree is also providing Sandbox testing, which includes varieties of
+Braintree is also providing Sandbox testing, which includes varieties of
 payment methods during the testing transaction, therefore in Sandbox
-testing BrainTree facilitates the developer with a number or test
+testing Braintree facilitates the developer with a number or test
 accounts, like credit and debit card numbers which can be used for dummy
 transactions.
 
-### White Glove Support
+### White-Glove Support
 
-BrainTree SDK provide a very unique support, in which you can talk a
-real person from the BrainTree team to resolve your issues. This
-approach termed as white glove support.
+Braintree SDK provide very unique support, in which you can talk a
+real person from the Braintree team to resolve your issues. This
+approach termed as white-glove support.
 
 SQUARE
 ------
 
 SQUARE, Inc is also a mobile payment company which is based in San
 Francisco California. The company not only providing mobile payment
-services but also a financial services and merchant services.@Square
+services but also financial services and merchant services.@Square
 
 ### How Square works in Mobile payment
 
-Square allows the people in business like merchant who want to charge
+Square allows the people in business like a merchant who wants to charge
 money from there customers through credit or debit card, Square comes in
 action to accept the debit or credit card with a plastic dongle which
 can be inserted into the Audio port of mobile and Customer just need to
-swipe his card from the dongle. Square is also charging for the each
-swipe, customer made. Dongle can be seen in the given fig.
+swipe his card from the dongle. Square is also charging for each
+swipe, customer made. The dongle can be seen in the given fig.
 
 ![image](dongle)
 
 Square gives merchants and individuals to accepts the offline debit and
-credit cards through their Android and iOS smart phone or tablet
+credit cards through their Android and iOS smartphone or tablet
 computers.
 
 ### SDK and API’S services by Square
 
-Square provide multiple number of SDK and Api’s to facilitate the
-customers, Square have millions of customers around various countries
+Square provides multiple numbers of SDK and Api’s to facilitate the
+customers, Square has millions of customers around various countries
 including United States, Canada, Japan, Australia, and the United
-Kingdom. Square reader SDK and Square Apis are very easy to integrate in
-you application. Developers like to embed the square sdk and api because
-it have very nice, clean and informative documentation which guides the
+Kingdom. Square reader SDK and Square Apis are very easy to integrate into
+your application. Developers like to embed the square SDK and API because
+it has very nice, clean and informative documentation which guides the
 clear logic to integrate this technology.
 
 ### Reader SDK
 
-The basic idea or Square reader is this, that it facilitate the merchant
-or individual to receive in-person payments. Now square have multiple
-hardware’s from which Square Reader is one. For Square reader you need
-SDK which will be act on your behalf to receive the payment into your
+The basic idea or Square reader is this, that it facilitates the merchant
+or individual to receive in-person payments. Now square has multiple
+hardware from which Square Reader is one. For Square reader you need
+SDK which will be acted on your behalf to receive the payment into your
 account. Reader SDK compose of Mobile Authorization API and Transaction
 API. This SDK enables developers to integrate square checkout flow and
-accept in person payment in your own custom build mobile application. we
+accept in-person payment in your own custom to build a mobile application. we
 use square readers with NFC payments. The SDK provides authorization,
-transaction processing and reader management. Square reader hardware can
+transaction processing, and reader management. Square reader hardware can
 also be seen in the given fig
 
 ![image](reader)
 
-When user will come, it will just swipe his card in the reader, the
-reader is configure to your custom application in your mobile or
-computer, and you will receive your payment in your account. User can
-also pay his money through Apple pay or Google pay.
+When the user will come, it will just swipe his card in the reader, the
+reader is configured to your custom application in your mobile or
+computer, and you will receive your payment in your account. Users can
+also pay their money through Apple pay or Google pay.
 
 ### Customer API
 
 This API is an extra service from the Square, in which you will not
 receiving money from your customers but also you will manage their data.
-It will store the information related to all you customers in your
+It will store the information related to all your customers in your
 database which is very helpful in order to manage the customer data.
-Whole process is shown in the fig.
+The whole process is shown in fig.
 
 ![image](customer)
 
-This time lapse is showing, that how can you store the save the data of
+This time-lapse is showing, that how can you store the save the data of
 your customer upon the request of making the payments. If a merchant
-want to have information about all his customers, then he can embed this
+wants to have information about all his customers, then he can embed this
 API in his application. This application is also very supportive in
 terms of integration like others.
 
 ### Catalog API
 
-This is also an extra and supportive api besides your payment api. It
+This is also an extra and supportive API besides your payment API. It
 will create and maintain the product catalog and all products which are
 linked to that product. The product then used for performing payments.
 
@@ -458,80 +457,80 @@ linked to that product. The product then used for performing payments.
 
 ### In-App payments SDK
 
-In-App SDK is same like PayPal service, which you can integrate into
+In-App SDK is the same as PayPal service, which you can integrate into
 your mobile application. You just need to attach your Business Id within
 the back-end while calling the payment service. During the user payment,
-it will direct to payment screen, where user will enter it’s credentials
+it will direct to the payment screen, where the user will enter its credentials
 and submit the payment. When payment has been done successfully the
 merchant will receive that payment in his own account.
 
 Secure In-App Payments supports both Android and iOS Platform and it is
-very easy to integrate .If you are planning to develop the Android ,iOS
-or Cross platform dependent App, In-App SDK has nice sample applications
+very easy to integrate. If you are planning to develop the Android, iOS
+or Cross platform-dependent App, In-App SDK has nice sample applications
 and helping code on the documentation. You can easily access it and use
 it in your custom developed application. To embed this SDK in your
 application, you must register first and then you can have Application
 and Location ID which you can use in your application for the
-integration. It will represent your account associated to the
+integration. It will represent your account associated with the
 application.
 
 ### Point-of-Sale SDK
 
 This is a very efficient and supporting service, which is provided by
-the Square, in which user can have a hardware and SDK support for the
-point sale. This whole system can be accessible by your mobile device.
+the Square, in which the user can have hardware and SDK support for the
+point sale. This whole system can be accessed by your mobile device.
 The payment you received by the POS hardware can be manageable by your
-smart phone. This respective point of sale hardware is show in the given
+smartphone. This respective point of sale hardware is shown in the given
 fig.
 
 ![image](POS)
 
-This diagram is shows the flow of creating the product catalog, which is
+This diagram shows the flow of creating the product catalog, which is
 also helpful while getting your payment in exchange the product during
-point of sale process.
+point of the sale process.
 
 Stripe
 ------
 
-Stripe is another technology company which is a supporting hand for the
+Stripe is another technology company that is a supporting hand for the
 receiving of mobile payments over the internet. Stripe is very popular
 among developers because it is not online providing payment services but
 also prevents the transaction from technical or fraud issues. In Stripe
 the whole banking infrastructure is required to operate the on-line
-payment systems. Strip support multiple payment method, e.g. BanContact,
+payment systems. Strip support multiple payment methods, e.g. BanContact,
 Giropay, iDEAL, SEPA Direct Debit, Sofort, AliPay, WeChat Pay, EPS,
-Multibanco, PS4 etc. Strip accept all major debit and credit Cards
-including VISA, mastercard, AMERICAN EXPRESS and 3DS etc, in 130+
-currencies. Therefore stripe is more favourite in growing your business
-because you business have vast payment acceptance option which will
-attract the more customers@Stripe.
+Multibanco, PS4, etc. Stripe accepts all major debit and credit cards
+including VISA, MasterCard, AMERICAN EXPRESS and 3DS, etc, in 130+
+currencies. Therefore stripe is more favorite in growing your business
+because your business has a vast payment acceptance option which will
+attract more customers@Stripe.
 
 ![image](stripe)
 
 In the given fig you will get a basic idea, that how stripe works, When
-customer hits the Stripe Api to pay the money, it will send request with
+A customer hits the Stripe API to pay the money, it will send a request with
 payment info, which hold user credentials for stripe, In response,
 Stripe will generate and token and send back to the requesting client
-app, client then send that token with other required data to your
-application server. Your application server then charge the amount from
+app, the client then sends that token with other required data to your
+application server. Your application server then charges the amount from
 the client account using that token. Stripe is also not limited to
 mobile payments only. Just like other Mobile payment giants, Stripe is
-also providing multiple service where are as follow @StripePaper.
+also providing multiple services where are as follows @StripePaper.
 
 ### Payment SDK
 
 Stripe is providing Payment SDK for Android and iOS, which will be
-needed to integrate into our mobile application in order to carried out
-the transactions through Stripe. Stripe is also providing customer user
+needed to integrate into our mobile application in order to carry out
+the transactions through Stripe. Stripe is also providing a customer user
 interface including embedded checkout which is very helpful for the fast
-development of application. But developer can also do the custom
-development of user interface. This Payment SDK have multiple payment
-options like Cards, wallets, local payment methods, currencies and
-subsidiary support. Payment SDK using different security protocol and
-custom developed applications like Stripe radar, 3D Secure, dispute
+development of the application. But the developer can also do the custom
+development of the user interface. This Payment SDK has multiple payment
+options like Cards, wallets, local payment methods, currencies, and
+subsidiary support. Payment SDK using different security protocols and
+custom-developed applications like Stripe radar, 3D Secure, dispute
 handling in order to prevent the transactions from fraud and disputes.
-Here in the given diagram you will get the basic idea or whole structure
-of Payment Service of Stripe.
+Here in the given diagram, you will get the basic idea or whole structure
+of the Payment Service of Stripe.
 
 ![image](stripePayment)
 
@@ -540,20 +539,20 @@ of Payment Service of Stripe.
 Stripe’s API has various libraries in multiple programming languages,
 every single one has a lot of specifications like server-side libraries
 in Ruby, Python, PHP, Java, Node.js, Go; and libraries in other
-operating systems like iOS and Android. Stripe provide third-party
+operating systems like iOS and Android. Stripe provides third-party
 plugins for content management systems
 like Joomla, Drupal and Wordpress and e-commerce platforms
-like PrestaShop, Magento and OpenCart. Stripe’s API is very popular
-among developers because of a lot of services in term of mobile user
+like PrestaShop, Magento, and OpenCart. Stripe’s API is very popular
+among developers because of a lot of services in terms of mobile user
 experience. It recently launches the set of APIs known as Relay, which
-is a solution that can be penetrate into smart phones and the vastly
+is a solution that can penetrate into smartphones and the vastly
 used e-commerce purchases from those devices.
 
 Dwolla
 ------
 
-Dwolla is also a payment company which provides online payment system
-and mobile payments network. It has been active in US since 2010 but its
+Dwolla is also a payment company that provides online payment system
+and mobile payments network. It has been active in the US since 2010 but its
 business is growing day by day.
 
 #### Why Dwolla is different from others?
@@ -566,12 +565,12 @@ Dwolla Secure Application programmable interface@dwolla.
 ### Services Given by Dwolla
 
 When you will integrate the Dwolla in your application, then your user
-will login to your application through your own defined parameters,
-After getting login, he can perform transactions in term on money from
-his mobile application. But first of all he should verify the Bank
+will log in to your application through your own defined parameters,
+After getting a login, he can perform transactions in terms of money from
+his mobile application. But first of all, he should verify the Bank
 Account. You don’t need to worry about that, Dwolla will take care of
-this verification process. Dwolla allows you application the verify the
-customer bank account quickly. After that your customer is allowed to
+this verification process. Dwolla allows your application to verify the
+customer bank account quickly. After that, your customer is allowed to
 make payments.
 
 #### Dwolla allows you to send 5000 payments with single API request from your mobile
@@ -580,20 +579,20 @@ make payments.
 
 ![image](DwollaSandBox)
 
-Dwolla also provide customer to test their API through Sandbox testing
-same like other API’s. First you need to register for the account and
+Dwolla also provides the customer to test their API through Sandbox testing
+The same as other APIs. First, you need to register for the account and
 then take a unique key from that account which will be used within your
 application for the transactions. You get a test user account, which
-facilitate in term of making test transactions.
+facilitates in terms of making test transactions.
 
 implementation
 ==============
 
-Here we will demonstrate the use of payment Api in a mobile application
-in term or applying successful Payment transaction through Mobile. We
+Here we will demonstrate the use of payment API in a mobile application
+in terms of applying successful Payment transactions through Mobile. We
 will demonstrate all the tools and technologies which will be used in
-the mobile application. For this test application we have chosen
-following tools and technologies.
+the mobile application. For this test application, we have chosen
+The following tools and technologies.
 
 1.  Android OS.
 
@@ -607,18 +606,18 @@ which we have developed.
 Demo Application
 ----------------
 
-We have developed this demo application for Android environment. Android
+We have developed this demo application for the Android environment. Android
 is a very famous mobile operating system, which has been developed by
-technology Giant “Google”. Most of famous mobile companies Samsung,
-Huawei, Sony, Oppo and Nokia are using Android in their mobile devices.
-Android is very user friendly and enhance the customer experience by
-multiple extra services supported by Google from which most popular
+technology Giant “Google”. Most of the famous mobile companies Samsung,
+Huawei, Sony, Oppo, and Nokia are using Android in their mobile devices.
+Android is very user friendly and enhances the customer experience by
+multiple extra services supported by Google from which the most popular
 service is Google Maps.
 
-*Android is a best selling operating system since 2011 and has almost
+*Android is the best selling operating system since 2011 and has almost
 2.6 billion monthly active users.*
 
-we build a simple application to run on android OS. This application is
+we build a simple application to run on Android OS. This application is
 developed in android here we will go through the code of creating this
 test application and then integrating the Paypal in that application.
 Steps involving in developing this application are as follow:-
@@ -647,28 +646,27 @@ registration.
 ### Register API in PayPal
 
 Registering API in PayPal is also very easy, we just need to specify the
-unique name for the API, and Sandbox will generate two accounts for the
+unique name for the API and Sandbox will generate two accounts for the
 testing purpose.
 
 ![image](restAPI)
 
-To register you API, click the create button in Rest API apps and PayPal
-will do the remaining things for you. After creation of API, you will
-get the clientID as shown in Fig 7. We will use this clientID later in
+To register your API, click the create button in Rest API apps and PayPal
+will do the remaining things for you. After the creation of API, you will
+get the client as shown in Fig 7. We will use this client later in
 the application.
 
 ### Set Up Business and Test User Account
 
 ![image](API)
 
-For looking the created accounts you just need to go into the Account
-tab in SANDBOX group and your will find generated accounts. The screen
-shot can b seen in Fig 6.
+For looking at the created accounts you just need to go into the Account
+tab in the SANDBOX group and you will find generated accounts. The screenshot can b seen in Fig 6.
 
 ### Use the generated Client ID in Android Application
 
-Now the time to use the client Id in the Mobile application. First of
-all create a new Android Project and then create class
+Now the time to use the Client Id in the Mobile application. First of
+all create a new Android project and then create a class
 PayPalConfiguration.java and after that create the following variable
 like this.
 
@@ -679,17 +677,17 @@ public class PayPalConfiguration {
 }
 ```
 
-The clientId generated from the PayPal account will be assign to this
+The clientId generated from the PayPal account will be assigned to this
 variable in this class and later we will use this class for receiving
-money in associated account.
+money in the associated accounts.
 
 ### Adding dependencies
 
 Now you need to add dependencies for the PayPal SDK, for dependencies
 you need to open the app level **build.gradle** file and use following
-line to include the Paypal SDK support for the android application. For
+The line to include the Paypal SDK support for the android application. For
 the time being, we have 2.16.0 version of SDK but you can check the
-latest one while reading this report.
+The latest one while reading this report.
 
 ``` {.java language="Java"}
     implementation 'com.android.support:appcompat-v7:28.0.0'
@@ -704,17 +702,17 @@ dependencies.
 ### Integrating the PayPal Payment
 
 Now we will develop the application front end view, from where the user
-will interact to pay some money. As this is a demo application therefore
+will interact to pay some money. As this is a demo application, therefore,
 we have just added a text box and Payment button to keep it simple as
-show in the following fig
+shown in the following fig
 
 ![image](interphase)
 
-When user will enter some amount then and press pay button then it will
-goes to PayPal login screen. Here i will give you sample code for the
+When the user will enter some amount then and press pay button then it will
+go to PayPal login screen. Here I will give you sample code for the
 design, you can learn it from Android official website, we will stick to
 the back-end functions in order to complete the payment transaction
-through mobile application. Suppose for front end we have following id’s
+through the mobile application. Suppose for front end we have the following ids
 with button and text editor.
 
 ``` {language="xml"}
@@ -734,7 +732,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private String paymentAmount;
 ```
 
-Now we will initialize the views and add event listener for the button,
+Now we will initialize the views and add an event listener for the button,
 therefore we will do the initialization with the onCreate function.
 
 ``` {language="java"}
@@ -753,10 +751,10 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 ```
 
-In order to do the transaction from PayPal we need a PayPal
+In order to do the transaction from PayPal, we need a PayPal
 Configuration Object and a Request code. The documentation about this
-object has been explained in detailed on PayPal developers website. You
-need to import following files in order to use the PayPal Configuration.
+object has been explained in detail on the PayPal developer’s website. You
+need to import the following files in order to use the PayPal Configuration.
 
 ``` {language="java"}
 import com.paypal.android.sdk.payments.PayPalConfiguration;
@@ -766,7 +764,7 @@ import com.paypal.android.sdk.payments.PaymentActivity;
 import com.paypal.android.sdk.payments.PaymentConfirmation;
 ```
 
-Here you will have a look how we will use this object configuration. Add
+Here you will have a look at how we will use this object configuration. Add
 this in our MainActivity.java class.
 
 ``` {language="java"}
@@ -806,31 +804,31 @@ private void receivePayment() {
 }
 ```
 
-When **receivePayment** called, user will be directed to the login
+When **receivePayment** called, the user will be directed to the login
 screen of PayPal where it has the option to pay through Card or PayPal
-id. We have used Paypal. Select the PayPal to enter the login
+id. We have used Paypal. Select PayPal to enter the login
 credentials.
 
 ![image](paypalLogin)
 
 Here we will enter the login credentials. Upon successful login, the
 application will direct us to the confirmation screen. To make the
-payment, user should have enough balance otherwise there will be low
-payment error will be displayed.
+payment, the user should have enough balance otherwise there will be a low
+payment error that will be displayed.
 
 ![image](PayLogin)
 
-Here user will select pay in order to confirm the payment. After the
-confirmation the transaction will processed from the PayPal side and
+Here the user will select pay in order to confirm the payment. After the
+confirmation the transaction will be processed from the PayPal site and
 used will get the return message in term of JSON which we will show to
-the user through the a specific function in which we will catch this
-response to display in user screen.
+the user through the specific function in which we will catch this
+response to display on the user screen.
 
 ![image](confirmation)
 
 Now Payment can be processed through the interface but here we will also
 add the **activityResult** to show the response which is coming back
-from the PayPal, whether the transaction has been made or not. This
+from PayPal, whether the transaction has been made or not. This
 activity will show the information to the user about the transaction
 result.
 
@@ -874,7 +872,7 @@ public void onClick(View v) {
 
 This was the short description of the demo application in android for
 PayPal and we also go through the code of the application in order to
-give you the better and clear understanding about the role of payment
+give you a better and clear understanding of the role of payment
 through mobile with a real example.
 
 Results
@@ -883,28 +881,28 @@ Results
 Mobile Payment is the growing technology, and it will keep growing
 because of the high number of users around the world. Therefore most of
 the businesses are investing in this handsome technology. There are 4.86
-billion mobile users, but less then one billion are using mobile
+billion mobile users, but less than one billion are using mobile
 payments. Therefore it is confirmed that all remaining users will also
-turn toward this never ending market. It the necessary part of the
+turn toward this never-ending market. It a necessary part of the
 modern world. The people who are in the business of mobile payments will
 be in a bright future ahead. All and all this technology will stand
-besides other market giants in the market very soon.
+beside other market giants in the market very soon.
 
 Conclusion
 ==========
 
-We have number of API’s and SDK’s which are available to the software
-developers, which they can integrate in their application to allow their
+We have a number of API’s and SDK’s which are available to the software
+developers, which they can integrate into their application to allow their
 users to perform money transactions through mobile, but every API has
 its own requirement, this paper will give them knowledge about the
 possibilities but the choice will be made after the requirement
 engineering. This paper will be concluded with this line that there are
-number of ways to facilitate the mobile application users but choice
+number of ways to facilitate the mobile application users but the choice
 should be made on the basis of what they need and how you facilitate.
 
 This work was carried out within the Web and Mobile Apps class. I would
 like to thank our Prof. Dr. Yvonne Jung from Hochschule Fulda, who
-supervised through out this course. I would also like to thanks my
+supervised throughout this course. I would also like to thanks my
 brother, Adil Shehzad from Technical University Chemnitz, who helped me
 in understanding the Android platform.
 
