@@ -55,7 +55,7 @@ the wast case study, interesting statistics, and growing trend.
 @GoldmanSachs Below is the given figure which is showing the increase in
 a very detailed manner.
 
-![image](spending)
+![image](images/spending.PNG)
 
 As you can see the Global market overview in fig 1.1 in which it is
 more precisely explained about the scenario, how the people around the
@@ -81,7 +81,7 @@ moving towards the E-Governance therefore they encourage the steps taken
 for technological enhancement. Here we will explain this scenario
 with figure how this technology is attracting people towards itself.
 
-![image](mobile)
+![image](images/mobile.PNG)
 
 The given fig is also taken from the “Goldman Sach” research which is
 clearly representing the scenario of today’s Mobile technology growth.
@@ -141,7 +141,7 @@ to take the example of one more research study about the statistics.
 Here is the fig which is going to give the overviews of the user’s
 statistics worldwide.
 
-![image](giants)
+![image](images/giants.PNG)
 
 Given fig is basically taken by a research study published by Juniper
 Research @JuniperResearch. This statistics fig is covering almost all
@@ -184,7 +184,7 @@ market shares and earn billion of profit. If they don’t want to update
 themselves then they will lose the competition against other markets
 giants.
 
-![image](vendors)
+![image](images/vendors.PNG)
 
 Here in fig 4 you can see that, we have multiple options to use the
 services of mobile payment, because vendors are greater in number.
@@ -268,7 +268,7 @@ recharge your account. If your account has enough money which is
 required for the transaction then you will be asked to confirm the
 payment and upon the confirmation of the successful transaction, you got a message on the requesting site screen@paypalJornal.
 
-![image](pp1)
+![image](images/pp1.png)
 
 ### Sandbox Testing of PayPal
 
@@ -284,7 +284,7 @@ Sandbox account, Then you need you to register your application in the
 Paypal developer in order to get Business account key which you can
 integrate with your application while calling the Rest API of Paypal.
 
-![image](sandbox)
+![image](images/sandbox.PNG)
 
 Fig 6 is showing the glimpse of Sandbox accounts provided by Paypal
 where facilitator account act as a business account and buyer account as
@@ -298,7 +298,7 @@ can be used for the transactions. This key represents, that when you will
 make some transaction from any PayPal account then money will come into
 your business Account.
 
-![image](clinetID)
+![image](images/clinetID.PNG)
 
 In the given Fig 7 we have a create API in Paypal developer account, and
 along with this API, we get a clientID which we will use in our
@@ -350,20 +350,20 @@ This one of the most important aspects of this SDK that it has multiple
 payment methods therefore we can grad a lot of use with different
 payment providers. First of all, it is supporting the most popular are
 
-![image](pv)
+![image](images/pv.PNG)
 
 Credit and Debit cards, supported by Braintree SDK are:-
 
-![image](cards)
+![image](images/cards.PNG)
 
 Digital Wallets which are in the supporting list of Braintree areas
 follow:-
 
-![image](wallets)
+![image](images/wallets.PNG)
 
 Local payment methods in the Braintree SDK are:-
 
-![image](localpayment)
+![image](images/localpayment.PNG)
 
 ### BrainTree Sandbox testing
 
@@ -395,7 +395,7 @@ can be inserted into the Audio port of mobile and Customer just need to
 swipe his card from the dongle. Square is also charging for each
 swipe, customer made. The dongle can be seen in the given fig.
 
-![image](dongle)
+![image](images/dongle.PNG)
 
 Square gives merchants and individuals to accepts the offline debit and
 credit cards through their Android and iOS smartphone or tablet
@@ -424,7 +424,7 @@ use square readers with NFC payments. The SDK provides authorization,
 transaction processing, and reader management. Square reader hardware can
 also be seen in the given fig
 
-![image](reader)
+![image](images/reader.PNG)
 
 When the user will come, it will just swipe his card in the reader, the
 reader is configured to your custom application in your mobile or
@@ -439,7 +439,7 @@ It will store the information related to all your customers in your
 database which is very helpful in order to manage the customer data.
 The whole process is shown in fig.
 
-![image](customer)
+![image](images/customer.PNG)
 
 This time-lapse is showing, that how can you store the save the data of
 your customer upon the request of making the payments. If a merchant
@@ -453,7 +453,7 @@ This is also an extra and supportive API besides your payment API. It
 will create and maintain the product catalog and all products which are
 linked to that product. The product then used for performing payments.
 
-![image](catalog)
+![image](images/catalog.PNG)
 
 ### In-App payments SDK
 
@@ -483,7 +483,7 @@ The payment you received by the POS hardware can be manageable by your
 smartphone. This respective point of sale hardware is shown in the given
 fig.
 
-![image](POS)
+![image](images/POS.PNG)
 
 This diagram shows the flow of creating the product catalog, which is
 also helpful while getting your payment in exchange the product during
@@ -505,7 +505,7 @@ currencies. Therefore stripe is more favorite in growing your business
 because your business has a vast payment acceptance option which will
 attract more customers@Stripe.
 
-![image](stripe)
+![image](images/stripe.PNG)
 
 In the given fig you will get a basic idea, that how stripe works, When
 A customer hits the Stripe API to pay the money, it will send a request with
@@ -532,7 +532,7 @@ handling in order to prevent the transactions from fraud and disputes.
 Here in the given diagram, you will get the basic idea or whole structure
 of the Payment Service of Stripe.
 
-![image](stripePayment)
+![image](images/stripePayment.PNG)
 
 ### Stripe Api’s Varieties
 
@@ -577,7 +577,7 @@ make payments.
 
 ### Dwolla Sandbox testing
 
-![image](DwollaSandBox)
+![image](images/DwollaSandBox.PNG)
 
 Dwolla also provides the customer to test their API through Sandbox testing
 The same as other APIs. First, you need to register for the account and
@@ -649,7 +649,7 @@ Registering API in PayPal is also very easy, we just need to specify the
 unique name for the API and Sandbox will generate two accounts for the
 testing purpose.
 
-![image](restAPI)
+![image](images/restAPI.PNG)
 
 To register your API, click the create button in Rest API apps and PayPal
 will do the remaining things for you. After the creation of API, you will
@@ -658,7 +658,7 @@ the application.
 
 ### Set Up Business and Test User Account
 
-![image](API)
+![image](images/API.PNG)
 
 For looking at the created accounts you just need to go into the Account
 tab in the SANDBOX group and you will find generated accounts. The screenshot can b seen in Fig 6.
@@ -694,7 +694,7 @@ The latest one while reading this report.
     implementation 'com.paypal.sdk:paypal-android-sdk:2.16.0'
 ```
 
-![image](mobilePay.png)
+![image](images/mobilePay.png)
 
 Please don’t open the project level build.gradle file for adding
 dependencies.
@@ -706,7 +706,7 @@ will interact to pay some money. As this is a demo application, therefore,
 we have just added a text box and Payment button to keep it simple as
 shown in the following fig
 
-![image](interphase)
+![image](images/interphase.PNG)
 
 When the user will enter some amount then and press pay button then it will
 go to PayPal login screen. Here I will give you sample code for the
@@ -809,14 +809,14 @@ screen of PayPal where it has the option to pay through Card or PayPal
 id. We have used Paypal. Select PayPal to enter the login
 credentials.
 
-![image](paypalLogin)
+![image](images/paypalLogin.PNG)
 
 Here we will enter the login credentials. Upon successful login, the
 application will direct us to the confirmation screen. To make the
 payment, the user should have enough balance otherwise there will be a low
 payment error that will be displayed.
 
-![image](PayLogin)
+![image](images/PayLogin.PNG)
 
 Here the user will select pay in order to confirm the payment. After the
 confirmation the transaction will be processed from the PayPal site and
@@ -824,7 +824,7 @@ used will get the return message in term of JSON which we will show to
 the user through the specific function in which we will catch this
 response to display on the user screen.
 
-![image](confirmation)
+![image](images/confirmation.PNG)
 
 Now Payment can be processed through the interface but here we will also
 add the **activityResult** to show the response which is coming back
