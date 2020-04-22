@@ -900,11 +900,9 @@ engineering. This paper will be concluded with this line that there are
 number of ways to facilitate the mobile application users but the choice
 should be made on the basis of what they need and how you facilitate.
 
-This work was carried out within the Web and Mobile Apps class. I would
-like to thank our Prof. Dr. Yvonne Jung from Hochschule Fulda, who
-supervised throughout this course. I would also like to thanks my
-brother, Adil Shehzad from Technical University Chemnitz, who helped me
-in understanding the Android platform.
+This work was carried out within the Web and Mobile Apps Course. I would
+like to thank our [Prof. Dr. Yvonne Jung](https://www.hs-fulda.de/angewandte-informatik/ueber-uns/professuren/details/person/prof-dr-yvonne-jung-301/contactBox) from Hochschule Fulda, who
+supervised throughout this course.
 
 
 ## REFERENCES
